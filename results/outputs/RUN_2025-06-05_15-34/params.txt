@@ -1,0 +1,13 @@
+=== EA Algorithm Parameters ===
+pop_size: 400
+ngen: 100
+refresh_fraction: 0.75
+cxpb: 0.7
+mutpb: 0.2
+n_cores: 50
+elitism_size: 0
+repair: True
+remove_duplicates: False
+max_knockouts: 10
+indpb: 0.01
+crossover_indpb: 0.5

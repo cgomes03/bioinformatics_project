@@ -1,0 +1,6 @@
+=== EA Timing & Parameters Log ===
+
+Final Fitness: 6.479791463982006
+Total Run Time: 353918.6596 seconds
+Mean Generation Time: 3519.7770 seconds
+Generations Run: 100
